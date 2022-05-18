@@ -8,6 +8,10 @@ import 'tachyons';
 import Card from './Card';
 import { robots } from './robots';
 
+import ReviewCard from './reviewCard';
+import { Review } from './review';
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -23,6 +27,18 @@ root.render(
 
 
     <App />
+    {/* const len = Review.length
+    for (let i = 0; i < len; i++) {
+      if(Review[i].course_id === 'CS-7646')
+      <ReviewCard course_id={Review[i].course_id} body={Review[i].body} />
+
+      
+    } */}
+
+
+
+
+
 
   </React.Fragment>
 
