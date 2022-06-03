@@ -29,7 +29,7 @@ root.render(
     {/* <CardList robots={robots} /> */}
 
 
-    <CardApp />
+    <CardApp robots={robots} />
     <Hello greeting={'sdfdskfsd;kfdsf' + 'dfsfdsfsdffsd'} />
 
 
