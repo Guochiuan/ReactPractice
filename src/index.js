@@ -30,7 +30,7 @@ root.render(
 
 
     <CardApp robots={robots} />
-    <Hello greeting={'sdfdskfsd;kfdsf' + 'dfsfdsfsdffsd'} />
+    <Hello greeting={'sdfdskfsd;kfdsfaaaaaaaaaaaaaaaaaaaaa' + 'dfsfdsfsdffsd'} />
 
 
     <App />
