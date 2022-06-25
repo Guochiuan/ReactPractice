@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "98ff1cb0532f1c59dab3",
+    "revision": "4480bfec05c24c60a2a6",
     "url": "/ReactPractice/static/css/main.620fcfd7.chunk.css"
   },
   {
-    "revision": "98ff1cb0532f1c59dab3",
-    "url": "/ReactPractice/static/js/main.b8479fbe.chunk.js"
+    "revision": "4480bfec05c24c60a2a6",
+    "url": "/ReactPractice/static/js/main.8e48efc9.chunk.js"
   },
   {
     "revision": "f194e41d62172f179616",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/ReactPractice/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "0bcfddb70837b4120331985132561426",
+    "revision": "ac1f2ff553d953ee0b8caa175f88519d",
     "url": "/ReactPractice/index.html"
   }
 ];
